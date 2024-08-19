@@ -136,7 +136,7 @@ export default {
 .photo-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-auto-rows: 300px; /* Einheitliche Höhe für alle Zeilen */
+  grid-auto-rows: 300px;
   gap: 10px;
 }
 
