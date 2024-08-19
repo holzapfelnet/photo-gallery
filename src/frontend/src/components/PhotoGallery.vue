@@ -155,7 +155,6 @@ export default {
   grid-column: span 1;
 }
 
-/* Styling für das Overlay */
 .overlay {
   position: fixed;
   top: 0;

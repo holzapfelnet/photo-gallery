@@ -23,11 +23,11 @@ jobs:
         run: pwd
 
       - name: Install dependencies
-        working-directory: frontend
+        working-directory: src/frontend
         run: npm install
 
       - name: Build Vue app
-        working-directory: frontend
+        working-directory: src/frontend
         run: npm run build
 #      - name: Deploy to S3
 #        env:
