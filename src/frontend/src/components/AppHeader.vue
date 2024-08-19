@@ -2,7 +2,7 @@
   <div class="header-container">
     <div class="header-left">
       <header>
-        <span>Sebastian Holzapfel Photography 1234</span>
+        <span>Sebastian Holzapfel Photography 12345</span>
       </header>
     </div>
     <div class="header-right">
